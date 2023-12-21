@@ -15,9 +15,7 @@ HackerRank's 30 Days of Code is a coding challenge aimed at improving coding ski
 
 ## Languages Used
 I've solved the problems using the following programming languages:
-- Python
 - Java
-- C++
 
 Feel free to explore solutions in different languages!
 
